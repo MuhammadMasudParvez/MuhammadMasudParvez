@@ -5,7 +5,7 @@
 ## About Me
 Hello! I'm Muhammad Masud Parvez, a dedicated MERN Stack Developer currently honing my skills at Programming Hero, with a background in philosophy from Kurigram Govt. College, I bring a unique perspective to problem-solving and development. I'm passionate about building dynamic and efficient web applications.
 
-- 🌐 LinkedIn: [Muhammad Masud Parvez](https://linkedin/muhammadmasudparvez)
+- 🌐 LinkedIn: [Muhammad Masud Parvez](https://www.linkedin.com/in/muhammadmasudparvez/)
 - 📫 Email: [masudparvez.me@gmail.com](mailto:masudparvez.me@gmail.com)
 - 💼 Facebook: [Muhammad Masud Parvez](https://www.facebook.com/MuhammadMasudPaarvez)
 - 📞 Phone: +8801719108491
@@ -52,7 +52,7 @@ Hello! I'm Muhammad Masud Parvez, a dedicated MERN Stack Developer currently hon
 I would love to hear from you! Whether you have a question, want to collaborate on a project, or just want to connect, feel free to reach out to me through any of the following channels:
 
 - **Email:** [masudparvez.me@gmail.com](mailto:masudparvez.me@gmail.com)
-- **LinkedIn:** [Muhammad Masud Parvez](https://linkedin/muhammadmasudparvez)
+- **LinkedIn:** [Muhammad Masud Parvez](https://www.linkedin.com/in/muhammadmasudparvez/)
 - **Facebook:** [Muhammad Masud Parvez](https://www.facebook.com/MuhammadMasudPaarvez)
 - **WhatsApp:** +8801719108491
 
